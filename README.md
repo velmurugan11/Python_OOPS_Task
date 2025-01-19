@@ -1,27 +1,27 @@
 # Python_OOPS_Task
 
-OOPS_TASK1
+📌OOPS_TASK1
 
-Task: Build a Simple Library Management System
+📚Task: Build a Simple Library Management System
 Objective:
 Apply OOP concepts such as classes, objects, inheritance, encapsulation, polymorphism, and abstraction.
 
 Requirements:
 Classes to Implement:
 
-Book:
+📔Book:
   Attributes: 
     title, author, isbn, availability (boolean).
   Methods:
     __init__(...): Initialize book details.
     __str__(...): Return a string representation of the book details.
-Member:
+👤Member:
   Attributes: 
     name, member_id, borrowed_books (list of books).
   Methods:
     borrow_book(book): Borrow a book if available.
     return_book(book): Return a book.
-Library:
+📖Library:
   Attributes: 
     books (list of all books), members (list of all members).
   Methods:
@@ -45,7 +45,7 @@ Example Scenario to Implement:
 
 
 
-OOPS_TASK2
+📌OOPS_TASK2
 
 👉🏻Create a class called Person with attributes name and age. Add a method introduce that prints a message introducing the person.
 
